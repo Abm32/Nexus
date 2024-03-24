@@ -22,8 +22,7 @@ Breif Idea in two three sentences
 
 ## Link to product walkthrough
 [link to video](https://drive.google.com/file/d/1GWE_qUHIrl_g1Pd5DzYpnU8l1AynyN34/view?usp=sharing)
-will be added shortly...
-   
+[link to hardware model](https://www.tinkercad.com/things/cEOH8WsTVyX-incredible-bombul)
 ## Libraries used
 * Library Name - Version
 * React - 18.2
