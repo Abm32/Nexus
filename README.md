@@ -47,4 +47,4 @@ Instructions for running
 * An open browser window should automatically open if not click on localhost:3000
 
 ## How to contribute ? 
-Features to implement 
+Our database is made open source, made available as an open source api such that open source developers and solvers can get enough data and resources needed for implementing a solution in this specific topic.
