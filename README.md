@@ -21,7 +21,7 @@ Breif Idea in two three sentences
 4. User Friendly Interface
 
 ## Link to product walkthrough
-[link to video](Link Here)
+[link to video](https://drive.google.com/file/d/1GWE_qUHIrl_g1Pd5DzYpnU8l1AynyN34/view?usp=sharing)
 will be added shortly...
    
 ## Libraries used
